@@ -31,7 +31,7 @@ void pop()
         item= stack[top];
         top--;
         printf("%d ",item);
-    }
+    } 
 }
 
 void peek()
